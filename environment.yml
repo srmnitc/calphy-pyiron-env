@@ -33,3 +33,5 @@ dependencies:
 - pip:
     - runnerase
     - tensorflow <=2.7
+    - pychromatic
+    - rich
